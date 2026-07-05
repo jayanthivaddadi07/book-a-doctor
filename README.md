@@ -206,8 +206,7 @@ This project is developed for educational and learning purposes.
 ### 👤 Profile Page
 ![Profile Page](./screenshots/profile.png)
 
-### 📄 Upload Documents Page
-![Upload Documents Page](./screenshots/upload-documents.png)
+
 
 ### 🛠️ Admin Dashboard
 ![Admin Dashboard](./screenshots/admin.png)
