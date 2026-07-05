@@ -199,14 +199,8 @@ This project is developed for educational and learning purposes.
 
 ### 👨‍⚕️ Doctors Page
 ![Doctors Page](./screenshots/doctors.png)
-
-### 📅 Book Appointment Page
-![Book Appointment Page](./screenshots/book-appointment.png)
-
 ### 👤 Profile Page
 ![Profile Page](./screenshots/profile.png)
-
-
 
 ### 🛠️ Admin Dashboard
 ![Admin Dashboard](./screenshots/admin.png)
