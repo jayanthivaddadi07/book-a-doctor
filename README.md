@@ -186,3 +186,25 @@ GitHub: https://github.com/jayanthivaddadi07
 ## 📜 License
 
 This project is developed for educational and learning purposes.
+## 📸 Screenshots
+
+### Home Page
+![Home](./screenshots/home.png)
+
+### Login Page
+![Login](./screenshots/login.png)
+
+### Doctors Page
+![Doctors](./screenshots/doctors.png)
+
+###  book Appointment Page
+![Appointments](./screenshots/bookappointment.png)
+
+###register page
+![Doctors](./screenshots/register.png)
+### admin Page
+![Doctors](./screenshots/admin.png)
+### profile Page
+![Doctors](./screenshots/profile.png)
+### upload document Page
+![Doctors](./screenshots/uploaddocuments.png)
