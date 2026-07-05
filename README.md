@@ -188,23 +188,26 @@ GitHub: https://github.com/jayanthivaddadi07
 This project is developed for educational and learning purposes.
 ## 📸 Screenshots
 
-### Home Page
-![Home](./screenshots/home.png)
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
 
-### Login Page
-![Login](./screenshots/login.png)
+### 🔐 Login Page
+![Login Page](./screenshots/login.png)
 
-### Doctors Page
-![Doctors](./screenshots/doctors.png)
+### 📝 Register Page
+![Register Page](./screenshots/register.png)
 
-###  book Appointment Page
-![Appointments](./screenshots/bookappointment.png)
+### 👨‍⚕️ Doctors Page
+![Doctors Page](./screenshots/doctors.png)
 
-###register page
-![Doctors](./screenshots/register.png)
-### admin Page
-![Doctors](./screenshots/admin.png)
-### profile Page
-![Doctors](./screenshots/profile.png)
-### upload document Page
-![Doctors](./screenshots/uploaddocuments.png)
+### 📅 Book Appointment Page
+![Book Appointment Page](./screenshots/book-appointment.png)
+
+### 👤 Profile Page
+![Profile Page](./screenshots/profile.png)
+
+### 📄 Upload Documents Page
+![Upload Documents Page](./screenshots/upload-documents.png)
+
+### 🛠️ Admin Dashboard
+![Admin Dashboard](./screenshots/admin.png)
